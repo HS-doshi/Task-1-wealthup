@@ -1,10 +1,10 @@
 import styles from './page.module.css'
-import footerImage from './../../Images/Scroller with logos.png';
+import footerImage from './../../Images/Scroller.png';
 import Image from 'next/image';
 import headerImage from './../../Images/13.png'
 import middleImage from './../../Images/11.png'
-import centerImage from './../../Images/Untitled (120 × 120 px) 1.png'
-import aeroImg from './../../Images/Group 10.png'
+import centerImage from './../../Images/Untitled.png'
+import aeroImg from './../../Images/Group.png'
 
 export default function Home() {
   return (

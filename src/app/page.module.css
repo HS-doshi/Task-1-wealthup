@@ -104,13 +104,11 @@
   height: 90px;
   width: 2px;
   background-color: white;
-  left: 31%;
-  top: 100%;
+  left: 27%;
+  top: 135%;
   transform: translateY(-50%);
   border: 4px #ffff;
 }
-
-
 
 .ftrimg {
   width: 1392px;
